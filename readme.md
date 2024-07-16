@@ -1,6 +1,6 @@
-# mks-Bauteil
+# Taster
 
-![Bauteil](./bauteil.png)
+![Bauteil](https://makeyourschool.de/wp-content/uploads/2018/10/59_taster_knopf-1024x1024.jpg)
 <!-- TODO: CONTENT change image -->
 <!-- TODO: ARCHITECTURE multiple images? -->
 <!-- do we need multiple images per part?-->
@@ -8,32 +8,30 @@
 
 ## Beschreibung
 
-kurz-Beschreibung
+ein einfacher Taster
 
 ## Anschlüsse
 
 ### Eingang
 
--   I2C
+-   Mechanische Betätigung
 
 ### Ausgang
 
--   High Power / High Voltage
+-   ...
 
 ## Kurz-Datenblatt
 
--   Signal Eingang: 3-5V
--   Betriebsspannung: 5-12V
--   Ausgang Strom Max: 2A
+-   Betriebsspannung: 3.3-5V
 
 ## Siehe Auch
 
--   falls vorhanden link zu anderem Bauteil / zugehörigem part
+-   https://makeyourschool.de/maker-ecke/material/taster-knopf/
 
 
 
 ## library
-um dieses Bauteil zu benutzen verwende / installiere bitte diese Library: LibraryName
+keine library nötig
 <!-- TODO: CONTENT change library name -->
 
 ## Beispiel
